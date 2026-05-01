@@ -1,0 +1,15 @@
+# Java各知识点的demo
+- 抽象类与接口
+- JDBC和mybatis
+- 泛型和lambda
+- io和文件流
+- jvm和GC
+- 微服务
+  - Nacos
+  - Gateway
+  - Sentinel
+  - 分布式事务（最终一致性 + 消息队列）（本地消息表方案）
+- 多线程
+- 设计模式
+- 性能优化
+- spring基础
